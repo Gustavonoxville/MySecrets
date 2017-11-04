@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780595478713",
+    "firebase_url": "https://mysecrets-d6f1c.firebaseio.com",
+    "project_id": "mysecrets-d6f1c",
+    "storage_bucket": "mysecrets-d6f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780595478713:android:387264316b58193a",
+        "android_client_info": {
+          "package_name": "com.expressly.mysecrets.mysecrets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780595478713-b4roim2nn5n009rgsvmm5ilb226u1cvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAza6OZc-UgzeXXXHxrdgF6mQ5wZmZtOaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
